@@ -1,0 +1,13 @@
+name: Travelocal
+title: Travelocal
+username:
+account: nicholasleezt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6420876
+bundleId: 6012825
+url: https://nicholasleezt.shinyapps.io/Travelocal/
+when: 1655359409.04721
+lastSyncTime: 1655359409.04722
+asMultiple: FALSE
+asStatic: FALSE
