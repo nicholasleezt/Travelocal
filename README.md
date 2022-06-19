@@ -7,6 +7,8 @@
 - Joycelyn Teo Sze Ling
 - Ronjon Ahmed
 
-Shiny App Link: https://nicholasleezt.shinyapps.io/Travelocal/
+## Shiny App Link
+https://nicholasleezt.shinyapps.io/Travelocal/
 
-Presentation Link: https://rpubs.com/nicholasleezt/Travelocal
+## Presentation Link
+https://rpubs.com/nicholasleezt/Travelocal
